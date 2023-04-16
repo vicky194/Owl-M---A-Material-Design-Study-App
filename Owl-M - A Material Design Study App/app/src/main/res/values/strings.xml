@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Owl Application</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_activity_main4">MainActivity4</string>
+    <string name="title_activity_main5">MainActivity5</string>
+    <string name="course">3</string>
+    <string name="course3">3</string>
+    <string name="topic3">3</string>
+    <string name="subheading3_1">3</string>
+    <string name="text3_2">2</string>
+    <string name="text3_1">1</string>
+    <string name="subheading3_2">5</string>
+    <string name="course1">7</string>
+</resources>
